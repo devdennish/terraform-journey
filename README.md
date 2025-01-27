@@ -8,5 +8,6 @@ This repository contains the journey that I am embarking on with Terraform
 
 ## Project Structure
 
-- **`Terraform_Fundamentals`**: Contains the getting started with Terraform
-- **`Variables, Providers, Multi Region & Cloud`**: Contains Variables, Providers, Output
+- **`01-Terraform_Fundamentals`**: Contains the getting started with Terraform
+- **`02-Terraform_Variables_MultiRegion`**: Contains Variables, Providers, Output
+- **`03-Terraform-Modules`**: Contains Terraform Module
