@@ -10,3 +10,7 @@ module "ec2_instance" {
   az_zone_value       = "ap-southeast-2a"
 
 }
+
+output "ec2_ip" {
+value = module.ec2_instance.public_ip
+}
